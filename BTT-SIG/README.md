@@ -37,6 +37,7 @@
 
 ## 小组成果
 ### 竞赛获奖:
+- 全国职业院校技能大赛区块链赛项一等奖
 - 广东省第二届职业技能大赛区块链赛项金牌
 - 广东省新职业技术技能大赛区块链赛项金牌
 - 海峡两岸暨港澳大学生职业技能大赛区块链赛项第一名
@@ -55,6 +56,15 @@
 
 ### 小组成员高旭亮在2022年上半年被社区评选为年度MVP
 ![image](https://user-images.githubusercontent.com/103564714/204532910-a4f940c4-2699-4847-8450-95efc2183d2e.png)
+
+### 小组成员符博在2022年下半年被社区评选为年度MVP
+<img width="1500" alt="9c0836eb944378b73dd46b6718ad583" src="https://github.com/FISCO-BCOS/FISCO-BCOS-SIG/assets/103564714/e5c545d6-1474-4b98-a8f2-fd36a3abf0f8">
+
+### 小组成员张宇豪在第二届FISCO-BCOS社区Task挑战赛中 获得最佳贡献者
+<img width="1500" alt="e7983c779a21826d86f65900c92dc16" src="https://github.com/FISCO-BCOS/FISCO-BCOS-SIG/assets/103564714/bfc766ad-018b-4e47-8178-324868997e48">
+
+
+
 
 ### 社区贡献:
 ### 下列为小组成员在社区贡献的部分PR合集
